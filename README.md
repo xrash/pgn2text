@@ -4,7 +4,9 @@ Transform PGN into nice narration text.
 
 # Installation
 
-`go install github.com/xrash/pgn2text/cmd/pgn2text`
+```
+$ go install github.com/xrash/pgn2text/cmd/pgn2text
+```
 
 # Usage
 
